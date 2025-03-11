@@ -22,3 +22,17 @@ Le jeu prend fin lorsqu'une lettre dépasse la hauteur de la fenêtre.
    ```bash
    git clone https://github.com/fayssalzakaria/tetra_words.git
    cd tetra_words
+## Ouvrir le projet dans Unity
+
+- Lancer **Unity Hub**  
+- Ajouter le projet **Tetra-Mots**  
+- Ouvrir la scène principale du jeu  
+
+## Compiler et exécuter
+
+- Sélectionner la plateforme **Android** ou **PC**  
+- Générer un build et lancer le jeu  
+
+## Architecture du projet
+
+Tetra-Mots ├── Assets │ ├── Scripts │ │ ├── AudioManager.cs │ │ ├── Board.cs │ │ ├── DictionaryManager.cs │ │ ├── GameManager.cs │ │ ├── LetterCollider.cs │ │ ├── LevelManager.cs │ │ ├── LoseManager.cs │ │ ├── ShareOnSocialMedia.cs │ │ ├── StartManager.cs │ │ ├── UiManager.cs │ ├── Scenes │ │ ├── Home.unity │ │ ├── Levels.unity │ │ ├── Game.unity │ │ ├── Lose.unity │ ├── Prefabs │ ├── Textures │ ├── Audio
