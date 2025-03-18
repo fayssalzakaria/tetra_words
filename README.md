@@ -39,4 +39,4 @@ Tetra-Mots ├── Assets │ ├── Scripts │ │ ├── AudioManager
 
 ##   Présentation du jeu
 
-[![Regarder la vidéo](https://raw.githubusercontent.com/utilisateur/repository/main/Demo%20tetra-words.png)](https://raw.githubusercontent.com/utilisateur/repository/main/Demo%20tetra-words.mp4)
+[![Regarder la vidéo](Demo%20tetra-words.png)](Demo%20tetra-words.mp4)
