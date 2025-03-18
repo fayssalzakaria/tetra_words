@@ -36,3 +36,7 @@ Le jeu prend fin lorsqu'une lettre dépasse la hauteur de la fenêtre.
 ## Architecture du projet
 
 Tetra-Mots ├── Assets │ ├── Scripts │ │ ├── AudioManager.cs │ │ ├── Board.cs │ │ ├── DictionaryManager.cs │ │ ├── GameManager.cs │ │ ├── LetterCollider.cs │ │ ├── LevelManager.cs │ │ ├── LoseManager.cs │ │ ├── ShareOnSocialMedia.cs │ │ ├── StartManager.cs │ │ ├── UiManager.cs │ ├── Scenes │ │ ├── Home.unity │ │ ├── Levels.unity │ │ ├── Game.unity │ │ ├── Lose.unity │ ├── Prefabs │ ├── Textures │ ├── Audio
+
+##   Présentation du jeu
+
+[![Regarder la vidéo](https://raw.githubusercontent.com/utilisateur/repository/main/Demo%20tetra-words.png)](https://raw.githubusercontent.com/utilisateur/repository/main/Demo%20tetra-words.mp4)
