@@ -40,3 +40,6 @@ Tetra-Mots ├── Assets │ ├── Scripts │ │ ├── AudioManager
 ##   Présentation du jeu
 
 [![Regarder la vidéo](Demo%20tetra-words.png)](Demo%20tetra-words.mp4)
+##  Auteur  
+**Fayssal**  
+- Email : fayssal.132004@gmail.com
