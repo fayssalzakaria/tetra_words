@@ -60,19 +60,16 @@ Tetra-Mots/
 ## 📸 Captures d’écran
 
 ### 🏠 Écran d’accueil  
-![Écran d’accueil](./Image/Screen1.jpg)
+<img src="./Image/Screen1.jpg" alt="Écran d’accueil" width="400"/>
 
 ### 🎯 Sélection du niveau  
-![Sélection du niveau](./Image/Screen2.jpg)
+<img src="./Image/Screen2.jpg" alt="Sélection du niveau" width="400"/>
 
 ### 🎮 Écran de jeu  
-![Écran de jeu](./Image/Screen3.jpg)
+<img src="./Image/Screen3.jpg" alt="Écran de jeu" width="400"/>
 
 ### ⏸️ Menu pause  
-![Menu pause](./Image/Screen4.jpg)
-
-
-
+<img src="./Image/Screen4.jpg" alt="Menu pause" width="400"/>
 
 ##   Présentation du jeu
 
