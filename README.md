@@ -57,6 +57,22 @@ Tetra-Mots/
 │   ├── Textures/
 │   └── Audio/
 
+## 📸 Captures d’écran
+
+### 🏠 Écran d’accueil  
+![Écran d’accueil](./Images/Screen1.jpg)
+
+### 🎯 Sélection du niveau  
+![Sélection du niveau](./Images/Screen2.jpg)
+
+### 🎮 Écran de jeu  
+![Écran de jeu](./Images/Screen3.jpg)
+
+### ⏸️ Menu pause  
+![Menu pause](./Images/Screen4.jpg)
+
+
+
 
 ##   Présentation du jeu
 
