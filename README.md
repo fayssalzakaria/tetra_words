@@ -34,7 +34,7 @@ Le jeu prend fin lorsqu'une lettre dépasse la hauteur de la fenêtre.
 - Générer un build et lancer le jeu  
 
 ## Architecture du projet
-
+```
 Tetra-Mots/
 ├── Assets/
 │   ├── Scripts/
@@ -56,7 +56,7 @@ Tetra-Mots/
 │   ├── Prefabs/
 │   ├── Textures/
 │   └── Audio/
-
+```
 ## 📸 Captures d’écran
 
 ### 🏠 Écran d’accueil  
